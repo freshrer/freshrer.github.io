@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-baseurl: "/test"
+baseurl: ""
 url: "https://freshrer.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Freshrer's Guide # site's title
+description: "Freshrer's Guide | A website with technical blogs" # used by search engines
 
 defaults:
   -
@@ -19,21 +19,21 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: Welcome to my Blog
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+    Powered by <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> with <a target="_blank" href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: freshrer@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "freshrer"
   google_plus:
   instagram:
   keybase:
@@ -62,7 +62,7 @@ theme_settings:
     email: true
 
   # Scripts / Features
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-143939962-1 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
 
@@ -92,14 +92,10 @@ paginate_path: "blog/page:num"
 
 # AUTHORS
 authors:
-  mhagnumdw: # author-id
-    name: MhagnumDw
-    avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
-    url:
-  sylhare:
-    name: Sylhare
+  gopal: #author-id
+    name: Gopal Sharma
     avatar: "assets/img/avatars/sylhare_avatar.png"
-    url: "https://github.com/sylhare"
+    url: "https://github.com/freshrer"
 
 # PORTFOLIO
 collections:
