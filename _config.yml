@@ -19,10 +19,10 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Welcome to my Blog
+  header_text: Things that come to my mind
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-    Powered by <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> with <a target="_blank" href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+    ©2019 Gopal Sharma | Powered by <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> with <a target="_blank" href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout

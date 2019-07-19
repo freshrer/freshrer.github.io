@@ -5,10 +5,14 @@ permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
+**Welcome to my personal blog where I post about stuff I care about**
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Nice that you’re here. This is my personal blog and I post about things I do and I am interested in. Not regularly. If you have any questions I am happy you get in touch with me.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+**Who Am I**
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Experienced Full Stack Developer with a demonstrated history of working in the online media industry. Skilled in React.js, Redux, Express.js, Javascript, and Node.js. Strong engineering professional with a Bachelor of Computer Science (B.Tech.).
+
+**Reach Out**
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/gopal151295/) or say hi on [Twitter](https://twitter.com/_freshrer). You can drop a mail at <freshrer@gmail.com> as well.
